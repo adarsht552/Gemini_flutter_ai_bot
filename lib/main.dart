@@ -5,7 +5,7 @@ import 'package:gemini/utils/text_field.dart'; // Ensure this package is correct
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
-  Gemini.init(apiKey: 'AIzaSyBXXDVQL_QdJO1YwOCNqVD-wHZ9ATHVc7Y');
+  Gemini.init(apiKey: '');
   runApp(const MyApp());
 }
 
